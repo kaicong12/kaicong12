@@ -1,18 +1,27 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on: Developing advanced debugging tools and frameworks for cross-platform web applications, with a focus on Node.js and React.js, and integrating Web3 technologies to enhance decentralized app development.<br><br>🤝 I'm looking to collaborate on: Open-source projects and Web3 innovations - think blockchain-based smart contracts or decentralized storage systems like IPFS.<br><br>🌱 I'm currently learning: Web3 and its ecosystem! Check out the project [here](https://github.com/kaicong12/defi-crowdfunding).<br><br>💬 Ask me about: Full-stack development, modern JavaScript frameworks like Elysia.js and React and anything related to Web3!<br><br>
 
+Hey there! I’m Kai Cong, a passionate full-stack developer who loves building tools that make debugging and developing web apps easier—especially with Node.js, React.js, and all things Web3. Lately, I’ve been diving deep into decentralized tech, experimenting with smart contracts and exploring how blockchain can change the way we build apps.
+
+I’m always up for collaborating on open-source projects, especially if they involve blockchain, smart contracts, or decentralized storage (like IPFS). If you’re working on something cool in this space, let’s connect!
+
+Right now, I’m learning more about the Web3 ecosystem. If you’re curious, check out my latest project: [defi-crowdfunding](https://github.com/kaicong12/defi-crowdfunding).
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tey-kai-cong-0777371a5) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tey-kai-cong-0777371a5)
 
 # 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=kaicong12&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaicong12&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicong12&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=kaicong12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
