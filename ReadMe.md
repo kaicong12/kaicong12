@@ -9,12 +9,21 @@ are Postgres tables today; picking up a real message broker is next on the list.
 
 ## What I'm building
 
-| | |
-|---|---|
-| **[flight-pricing](https://github.com/kaicong12/flight-pricing)** | Trip planner. Shortlists places from travel videos and RedNote posts, you drag them into order, it routes that exact sequence and warns what won't work. Async Python worker on a Postgres `SKIP LOCKED` queue, per-domain rate budgets in the database. Proven live on Tromsø, Bergen, Porto and Singapore. |
-| **[file-dedup-rust](https://github.com/kaicong12/file-dedup-rust)** | Multi-user file dedupe. Actix-web, Redis job queue, SHA-256 plus OpenSearch for near-duplicates, JWT auth, Terraform for the infra. |
-| **[Kekal](https://github.com/kaicong12/Kekal)** | Ecommerce for a motorcycle dealer in Johor Bahru — a real shop with real stock. Next.js App Router, Prisma/Postgres, Firebase auth and storage. |
-| **[solmint](https://github.com/kaicong12/solmint)** | Solana NFT marketplace with real-time chain indexing. Anchor program in Rust, marketplace fee accounting, TypeScript front end. |
+**[flight-pricing](https://github.com/kaicong12/flight-pricing)** — Trip planner. Shortlists
+places from travel videos and RedNote posts, you drag them into order, it routes that exact
+sequence and warns what won't work. Async Python worker on a Postgres `SKIP LOCKED` queue,
+per-domain rate budgets in the database. Proven live on Tromsø, Bergen, Porto and Singapore.
+
+**[file-dedup-rust](https://github.com/kaicong12/file-dedup-rust)** — Multi-user file dedupe.
+Actix-web, Redis job queue, SHA-256 plus OpenSearch for near-duplicates, JWT auth, Terraform
+for the infra.
+
+**[Kekal](https://github.com/kaicong12/Kekal)** — Ecommerce for a motorcycle dealer in Johor
+Bahru, a real shop with real stock. Next.js App Router, Prisma/Postgres, Firebase auth and
+storage.
+
+**[solmint](https://github.com/kaicong12/solmint)** — Solana NFT marketplace with real-time
+chain indexing. Anchor program in Rust, marketplace fee accounting, TypeScript front end.
 
 ## Tech
 
